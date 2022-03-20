@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@zoomus/websdk": "^2.2.0",
+    "jsrsasign": "^10.5.3"
+  }
+}
